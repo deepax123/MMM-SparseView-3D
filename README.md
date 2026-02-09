@@ -8,7 +8,7 @@ submitted to The Visual Computer.
 
 If you use this code, please cite the corresponding manuscript.
 
-DOI: https://doi.org/10.5281/zenodo.XXXXXXX
+DOI: https://doi.org/10.5281/zenodo.18541704
 
 ---
 
@@ -42,8 +42,8 @@ This project uses the DTU Multi-View Stereo dataset.
     - pair.txt
   ```
 
-Official download:
-drivelink
+Official download:https://github.com/JianfeiJ/DI-MVS
+we refered to this repository for dataset
 
 ---
 
